@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="100%" alt="Musashi Miyamoto" />
+  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="100%" height="60%" alt="Musashi Miyamoto" />
 </div>
 
 <h1 align="center">🗡️ Othmane Makkour | Code Ronin</h1>
