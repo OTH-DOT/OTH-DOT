@@ -1,160 +1,199 @@
-<div align="center">
-  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="100%" height="60%" alt="Musashi Miyamoto" />
+# <span style="color: #00D4FF; font-weight: 900; font-size: 48px;">Hi there, I'm Othmane</span> 👋
+
+<p align="center">
+  <span style="background: linear-gradient(45deg, #FF6B6B, #4ECDC4, #45B7D1, #96CEB4); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 24px; font-weight: 600;">
+    Full Stack Developer • Modern Web Architect • Performance Enthusiast • Always Innovating
+  </span>
+</p>
+
+---
+
+## <span style="color: #FF6B6B; font-size: 32px;">💫 About Me</span>
+
+<p style="font-size: 18px; line-height: 1.8; color: #333; margin: 20px 0;">
+I'm a <strong style="color: #4ECDC4;">Full Stack Developer</strong> specializing in modern web development. My toolkit includes <strong style="color: #61DAFB;">React.js</strong>, <strong style="color: #000;">Next.js</strong>, <strong style="color: #38B2AC;">TailwindCSS</strong> for crafting beautiful interfaces, and <strong style="color: #43853D;">Node.js</strong>, <strong style="color: #FF2D20;">Laravel</strong>, <strong style="color: #00618A;">MySQL</strong>, <strong style="color: #4EA94B;">MongoDB</strong> for building robust and scalable backends.
+</p>
+
+<p style="font-size: 16px; color: #666; font-style: italic; text-align: center; margin: 30px 0; padding: 20px; border-left: 4px solid #00D4FF; background: rgba(0, 212, 255, 0.1);">
+I create high-performance applications with a strong focus on user experience.
+</p>
+
+---
+
+## <span style="color: #4ECDC4; font-size: 28px;">🌐 Let's Connect & Collaborate</span>
+
+<p align="center" style="margin: 30px 0;">
+  <a href="https://linkedin.com/in/othmane-makkour" style="text-decoration: none;">
+    <span style="background: #0077B5; color: white; padding: 12px 24px; border-radius: 25px; margin: 8px; display: inline-block; font-weight: 600; font-size: 16px;">LinkedIn</span>
+  </a>
+</p>
+
+---
+
+## <span style="color: #96CEB4; font-size: 28px;">🧠 Core Languages & Technologies</span>
+
+<div style="background: linear-gradient(135deg, rgba(255, 107, 107, 0.1), rgba(78, 205, 196, 0.1)); padding: 20px; border-radius: 15px; margin: 20px 0;">
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,nodejs,python" style="height: 40px; width: auto;" />
+</p>
 </div>
 
-<h1 align="center">🗡️ Othmane Makkour | Code Ronin</h1>
-
-> “You must understand that there is more than one path to the top of the mountain.”  
-> — *Miyamoto Musashi*
-
 ---
 
-## 💫 About Me
+## <span style="color: #FF6B6B; font-size: 28px;">⚙️ Frontend Powerhouse</span>
 
-💻 Currently sharpening my skills in **Laravel**, **React**, and building complete fullstack systems.  
-🧠 I seek clarity in code, elegance in design, and power in simplicity.  
-📍 Based in Morocco — open to collaboration and missions worldwide.
-
----
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/othmane-makkour)
-
----
-
-## 🧠 Languages & Core Technologies
-
+<div style="background: linear-gradient(135deg, rgba(69, 183, 209, 0.1), rgba(150, 206, 180, 0.1)); padding: 20px; border-radius: 15px; margin: 20px 0;">
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,nodejs,python" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,zustand,bootstrap,shadcnui" style="height: 40px; width: auto;" />
 </p>
+</div>
 
 ---
 
-## ⚙️ Frontend Frameworks & Libraries
+## <span style="color: #45B7D1; font-size: 28px;">🎨 Design & Styling Arsenal</span>
 
+<div style="background: linear-gradient(135deg, rgba(255, 107, 107, 0.1), rgba(69, 183, 209, 0.1)); padding: 20px; border-radius: 15px; margin: 20px 0;">
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,zustand,bootstrap,shadcnui" />
+  <img src="https://skillicons.dev/icons?i=sass,figma" style="height: 40px; width: auto;" />
+  <img src="https://skillicons.dev/icons?i=css,tailwind" style="height: 40px; width: auto;" />
 </p>
+</div>
 
 ---
 
-## 🎨 Styling & UI Frameworks
+## <span style="color: #96CEB4; font-size: 28px;">🧩 State Management Mastery</span>
 
+<div style="background: linear-gradient(135deg, rgba(78, 205, 196, 0.1), rgba(150, 206, 180, 0.1)); padding: 20px; border-radius: 15px; margin: 20px 0;">
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=sass,figma" />
-  <img src="https://skillicons.dev/icons?i=css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=redux" style="height: 40px; width: auto;" />
+  <img src="https://skillicons.dev/icons?i=contextapi" style="height: 40px; width: auto;" />
 </p>
+</div>
 
 ---
 
-## 🧩 State Management
+## <span style="color: #FF6B6B; font-size: 28px;">🧱 Backend Development Excellence</span>
 
+### <span style="color: #4ECDC4; font-size: 20px;">🧾 Server-Side Languages</span>
+<div style="background: rgba(255, 107, 107, 0.1); padding: 15px; border-radius: 10px; margin: 15px 0;">
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=redux" />
-  <img src="https://skillicons.dev/icons?i=contextapi" />
+  <img src="https://skillicons.dev/icons?i=php,js,ts,nodejs" style="height: 40px; width: auto;" />
 </p>
+</div>
+
+### <span style="color: #45B7D1; font-size: 20px;">🔧 Backend Frameworks & Libraries</span>
+<div style="background: rgba(69, 183, 209, 0.1); padding: 15px; border-radius: 10px; margin: 15px 0;">
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=express,laravel" style="height: 40px; width: auto;" />
+</p>
+</div>
+
+### <span style="color: #96CEB4; font-size: 20px;">🗃️ Database Systems</span>
+<div style="background: rgba(150, 206, 180, 0.1); padding: 15px; border-radius: 10px; margin: 15px 0;">
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" style="height: 40px; width: auto;" />
+</p>
+</div>
 
 ---
 
-## 🧱 Backend Development
+## <span style="color: #4ECDC4; font-size: 28px;">🧮 ORM & Advanced Query Tools</span>
 
-### 🧾 Programming Languages
-
+<div style="background: linear-gradient(135deg, rgba(78, 205, 196, 0.1), rgba(69, 183, 209, 0.1)); padding: 20px; border-radius: 15px; margin: 20px 0;">
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,js,ts,nodejs" />
+  <img src="https://img.shields.io/badge/Drizzle-ORM-336699?style=flat-square&logo=drizzle&logoColor=white" style="height: 40px; width: auto;" />
 </p>
-
-### 🔧 Backend Frameworks & Libraries
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=express,laravel" />
-</p>
-
-### 🗃️ Databases
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
-</p>
-
-## 🧮 ORM & Query Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Drizzle-ORM-336699?style=flat-square&logo=drizzle&logoColor=white" />
-</p>
-
+</div>
 
 ---
 
-## 📦 Package Management & API
+## <span style="color: #45B7D1; font-size: 28px;">📦 Package Management & API Integration</span>
 
+<div style="background: linear-gradient(135deg, rgba(45, 183, 209, 0.1), rgba(150, 206, 180, 0.1)); padding: 20px; border-radius: 15px; margin: 20px 0;">
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=npm,axios,postman" />
+  <img src="https://skillicons.dev/icons?i=npm,axios,postman" style="height: 40px; width: auto;" />
 </p>
+</div>
 
 ---
 
-## 🧰 DevOps & Tools
+## <span style="color: #FF6B6B; font-size: 28px;">🧰 DevOps & Development Tools</span>
 
+<div style="background: linear-gradient(135deg, rgba(255, 107, 107, 0.1), rgba(78, 205, 196, 0.1)); padding: 20px; border-radius: 15px; margin: 20px 0;">
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,linux" style="height: 40px; width: auto;" />
 </p>
+</div>
 
 ---
 
-## 🔐 Auth & Security
+## <span style="color: #96CEB4; font-size: 28px;">🔐 Authentication & Security Solutions</span>
 
+<div style="background: linear-gradient(135deg, rgba(150, 206, 180, 0.1), rgba(255, 107, 107, 0.1)); padding: 20px; border-radius: 15px; margin: 20px 0;">
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=jwt" />
-  <img src="https://skillicons.dev/icons?i=oauth" />
-  <img src="https://skillicons.dev/icons?i=supabase" />
-  <img src="https://raw.githubusercontent.com/clerkinc/clerk-dev-icons/main/icons/clerk.svg" width="35" title="Clerk" />
-  <img src="https://img.shields.io/badge/BetterAuth-CustomAuth-blue?style=flat-square" />
+  <img src="https://skillicons.dev/icons?i=jwt" style="height: 40px; width: auto;" />
+  <img src="https://skillicons.dev/icons?i=oauth" style="height: 40px; width: auto;" />
+  <img src="https://skillicons.dev/icons?i=supabase" style="height: 40px; width: auto;" />
+  <img src="https://raw.githubusercontent.com/clerkinc/clerk-dev-icons/main/icons/clerk.svg" width="35" style="height: 40px; width: auto;" title="Clerk" />
+  <img src="https://img.shields.io/badge/BetterAuth-CustomAuth-blue?style=flat-square" style="height: 40px; width: auto;" />
 </p>
+</div>
 
 ---
 
-## 📊 Libraries & APIs
+## <span style="color: #4ECDC4; font-size: 28px;">📊 Data Visualization & Real-time Communication</span>
 
+<div style="background: linear-gradient(135deg, rgba(78, 205, 196, 0.1), rgba(45, 183, 209, 0.1)); padding: 20px; border-radius: 15px; margin: 20px 0;">
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=chartjs,socketio,stripe" />
+  <img src="https://skillicons.dev/icons?i=chartjs,socketio,stripe" style="height: 40px; width: auto;" />
 </p>
+</div>
 
 ---
 
-## ✍️ CMS & Misc
+## <span style="color: #45B7D1; font-size: 28px;">✍️ Content Management & Creative Tools</span>
 
+<div style="background: linear-gradient(135deg, rgba(69, 183, 209, 0.1), rgba(150, 206, 180, 0.1)); padding: 20px; border-radius: 15px; margin: 20px 0;">
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=wordpress" />
-  <img src="https://skillicons.dev/icons?i=figma,notion" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=wordpress" style="height: 40px; width: auto;" />
+  <img src="https://skillicons.dev/icons?i=figma,notion" style="height: 40px; width: auto;" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" style="height: 40px; width: auto;" />
 </p>
+</div>
 
 ---
 
----
+## <span style="color: #FF6B6B; font-size: 28px;">🐍 GitHub Activity Visualization</span>
 
-## 🐍 GitHub Contribution Snake
-
+<div style="background: linear-gradient(135deg, rgba(255, 107, 107, 0.1), rgba(78, 205, 196, 0.1)); padding: 20px; border-radius: 15px; margin: 20px 0; text-align: center;">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OTH-DOT/OTH-DOT/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OTH-DOT/OTH-DOT/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/OTH-DOT/OTH-DOT/output/github-snake.svg" />
 </picture>
+</div>
 
 ---
 
-## 📈 GitHub Stats
+## <span style="color: #4ECDC4; font-size: 28px;">📊 Development Analytics & Performance Metrics</span>
 
+<div style="background: linear-gradient(135deg, rgba(78, 205, 196, 0.1), rgba(69, 183, 209, 0.1)); padding: 20px; border-radius: 15px; margin: 20px 0;">
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=OTH-DOT&theme=github_dark_dimmed&hide_border=false" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OTH-DOT&theme=github_dark_dimmed&hide_border=false&layout=compact" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=OTH-DOT&theme=github_dark_dimmed&hide_border=false" style="height: 200px; width: 100%; object-fit: contain;" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OTH-DOT&theme=github_dark_dimmed&hide_border=false&layout=compact" style="height: 200px; width: 100%; object-fit: contain;" />
 </p>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=OTH-DOT&icon=0&color=0" />
-</p>
+<div style="text-align: center; margin: 40px 0; padding: 25px; background: linear-gradient(45deg, #FF6B6B, #4ECDC4); border-radius: 15px;">
+  <p style="color: white; font-size: 18px; font-weight: 600; margin: 0;">
+    💡 <span style="color: #FFD700;">Open to exciting opportunities</span> • 
+    <span style="color: #FFD700;">Ready for challenging projects</span> • 
+    <span style="color: #FFD700;">Let's build something amazing together</span>
+  </p>
+</div>
 
-<!-- Crafted with focus and discipline. Inspired by the way of Musashi Miyamoto. -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=OTH-DOT&color=36BCF7&style=flat-square&label=Profile+Views" alt="Profile Views" style="margin-top: 20px;">
+</p>
