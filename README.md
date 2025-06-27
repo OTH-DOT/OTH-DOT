@@ -8,6 +8,12 @@
 
 ---
 
+<div align="center">
+  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="100%" height="60%" alt="Musashi Miyamoto" />
+</div>
+
+---
+
 ## <span style="color: #FF6B6B; font-size: 32px;">💫 About Me</span>
 
 <p style="font-size: 18px; line-height: 1.8; color: #333; margin: 20px 0;">
@@ -22,11 +28,27 @@ I create high-performance applications with a strong focus on user experience.
 
 ## <span style="color: #4ECDC4; font-size: 28px;">🌐 Let's Connect & Collaborate</span>
 
-<p align="center" style="margin: 30px 0;">
-  <a href="https://linkedin.com/in/othmane-makkour" style="text-decoration: none;">
-    <span style="background: #0077B5; color: white; padding: 12px 24px; border-radius: 25px; margin: 8px; display: inline-block; font-weight: 600; font-size: 16px;">LinkedIn</span>
-  </a>
-</p>
+<div style="background: linear-gradient(135deg, rgba(78, 205, 196, 0.1), rgba(69, 183, 209, 0.1)); padding: 25px; border-radius: 15px; margin: 20px 0;">
+  <p align="center" style="margin: 0;">
+    <a href="[https://linkedin.com/in/othmane-makkour](https://www.linkedin.com/in/othmane-makkour-79a81a245/)" style="text-decoration: none; margin: 10px;">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="height: 45px; transition: transform 0.3s;" />
+    </a>
+    <a href="https://twitter.com/yourusername" style="text-decoration: none; margin: 10px;">
+      <img src="[https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white](https://cdn.svgporn.com/logos/x.svg)" alt="Twitter" style="height: 45px; transition: transform 0.3s;" />
+    </a>
+    <a href="https://instagram.com/yourusername" style="text-decoration: none; margin: 10px;">
+      <img src="[https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://cdn.svgporn.com/logos/instagram-icon.svg)" alt="Instagram" style="height: 45px; transition: transform 0.3s;" />
+    </a>
+    <a href="mailto:your.email@example.com" style="text-decoration: none; margin: 10px;">
+      <img src="[https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://cdn.svgporn.com/logos/google-gmail.svg)" alt="Email" style="height: 45px; transition: transform 0.3s;" />
+    </a>
+  </p>
+  <p style="text-align: center; margin: 20px 0 0 0; font-size: 16px; color: #666;">
+    <span style="color: #4ECDC4; font-weight: 600;">💬 Open for collaborations</span> • 
+    <span style="color: #FF6B6B; font-weight: 600;">🚀 Available for projects</span> • 
+    <span style="color: #45B7D1; font-weight: 600;">☕ Always up for a chat</span>
+  </p>
+</div>
 
 ---
 
@@ -44,7 +66,9 @@ I create high-performance applications with a strong focus on user experience.
 
 <div style="background: linear-gradient(135deg, rgba(69, 183, 209, 0.1), rgba(150, 206, 180, 0.1)); padding: 20px; border-radius: 15px; margin: 20px 0;">
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,zustand,bootstrap,shadcnui" style="height: 40px; width: auto;" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,shadcnui" style="height: 40px; width: auto;" />
+  &nbsp;&nbsp;
+  <img src="https://avatars.githubusercontent.com/u/139895814?v=4" height="40" alt="shadcn" />
 </p>
 </div>
 
