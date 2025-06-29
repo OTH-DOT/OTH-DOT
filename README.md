@@ -2,14 +2,22 @@
 
 <p align="center">
   <span style="background: linear-gradient(45deg, #FF6B6B, #4ECDC4, #45B7D1, #96CEB4); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 24px; font-weight: 600;">
-    Full Stack Developer • Modern Web Architect • Performance Enthusiast • Always Innovating
+    Full Stack Developer 
+<!--     • Modern Web Architect • Performance Enthusiast • Always Innovating -->
   </span>
 </p>
 
 ---
-
+<!--
 <div align="center">
   <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="100%" height="60%" alt="Musashi Miyamoto" />
+ </div> -->
+
+<div align="center">
+  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif"
+       width="100%" 
+       style="height: 180px; object-fit: cover;" 
+       alt="Banner" />
 </div>
 
 ---
@@ -66,8 +74,7 @@ I create high-performance applications with a strong focus on user experience.
 
 <div style="background: linear-gradient(135deg, rgba(69, 183, 209, 0.1), rgba(150, 206, 180, 0.1)); padding: 20px; border-radius: 15px; margin: 20px 0;">
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,shadcnui" style="height: 40px; width: auto;" />
-  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap" style="height: 40px; width: auto;" />
   <img src="https://avatars.githubusercontent.com/u/139895814?v=4" height="40" alt="shadcn" />
 </p>
 </div>
@@ -135,7 +142,8 @@ I create high-performance applications with a strong focus on user experience.
 
 <div style="background: linear-gradient(135deg, rgba(45, 183, 209, 0.1), rgba(150, 206, 180, 0.1)); padding: 20px; border-radius: 15px; margin: 20px 0;">
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=npm,axios,postman" style="height: 40px; width: auto;" />
+  <img src="https://skillicons.dev/icons?i=npm,postman" style="height: 40px; width: auto;" />
+  <img src="https://cdn.svgporn.com/logos/axios.svg" style="height: 40px; width: auto;" />
 </p>
 </div>
 
@@ -158,7 +166,6 @@ I create high-performance applications with a strong focus on user experience.
   <img src="https://skillicons.dev/icons?i=jwt" style="height: 40px; width: auto;" />
   <img src="https://skillicons.dev/icons?i=oauth" style="height: 40px; width: auto;" />
   <img src="https://skillicons.dev/icons?i=supabase" style="height: 40px; width: auto;" />
-  <img src="https://raw.githubusercontent.com/clerkinc/clerk-dev-icons/main/icons/clerk.svg" width="35" style="height: 40px; width: auto;" title="Clerk" />
   <img src="https://img.shields.io/badge/BetterAuth-CustomAuth-blue?style=flat-square" style="height: 40px; width: auto;" />
 </p>
 </div>
@@ -169,7 +176,8 @@ I create high-performance applications with a strong focus on user experience.
 
 <div style="background: linear-gradient(135deg, rgba(78, 205, 196, 0.1), rgba(45, 183, 209, 0.1)); padding: 20px; border-radius: 15px; margin: 20px 0;">
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=chartjs,socketio,stripe" style="height: 40px; width: auto;" />
+  <img src="https://cdn.svgporn.com/logos/socket.io.svg" style="height: 40px; width: auto;" />
+  <img src="https://cdn.svgporn.com/logos/stripe.svg" style="height: 40px; width: auto;" />
 </p>
 </div>
 
@@ -217,7 +225,3 @@ I create high-performance applications with a strong focus on user experience.
     <span style="color: #FFD700;">Let's build something amazing together</span>
   </p>
 </div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=OTH-DOT&color=36BCF7&style=flat-square&label=Profile+Views" alt="Profile Views" style="margin-top: 20px;">
-</p>
