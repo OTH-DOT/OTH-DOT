@@ -25,13 +25,13 @@ I create high-performance applications with a strong focus on user experience.
 </p>
 
 ---
-
+<!-- 
 ## <span style="color: #4ECDC4; font-size: 28px;">🌐 Let's Connect & Collaborate</span>
 
 <div style="background: linear-gradient(135deg, rgba(78, 205, 196, 0.1), rgba(69, 183, 209, 0.1)); padding: 25px; border-radius: 15px; margin: 20px 0;">
   <p align="center" style="margin: 0;">
     <a href="[https://linkedin.com/in/othmane-makkour](https://www.linkedin.com/in/othmane-makkour-79a81a245/)" style="text-decoration: none; margin: 10px;">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="height: 45px; transition: transform 0.3s;" />
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="height: 45px; transition: transform 0.3s;" /> 
     </a>
     <a href="https://twitter.com/yourusername" style="text-decoration: none; margin: 10px;">
       <img src="[https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white](https://cdn.svgporn.com/logos/x.svg)" alt="Twitter" style="height: 45px; transition: transform 0.3s;" />
@@ -49,8 +49,8 @@ I create high-performance applications with a strong focus on user experience.
     <span style="color: #45B7D1; font-weight: 600;">☕ Always up for a chat</span>
   </p>
 </div>
-
 ---
+-->
 
 ## <span style="color: #96CEB4; font-size: 28px;">🧠 Core Languages & Technologies</span>
 
