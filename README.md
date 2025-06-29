@@ -1,18 +1,8 @@
-# <span style="color: #00D4FF; font-weight: 900; font-size: 48px;">Hi there, I'm Othmane</span> 👋
-
-<p align="center">
-  <span style="background: linear-gradient(45deg, #FF6B6B, #4ECDC4, #45B7D1, #96CEB4); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 24px; font-weight: 600;">
-    Full Stack Developer 
-<!--     • Modern Web Architect • Performance Enthusiast • Always Innovating -->
-  </span>
-</p>
-
-
 <div align="center">
-  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="100%" height="60%" alt="Musashi Miyamoto" />
+  <img src="[https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif](https://github.com/OTH-DOT/OTH-DOT/blob/main/Blue%20and%20White%20Geometric%20Digital%20Marketer%20LinkedIn%20Banner%20(2).png?raw=true)" width="100%" height="60%" alt="Musashi Miyamoto" />
  </div> 
 
----
+ # <span style="color: #00D4FF; font-weight: 900; font-size: 48px;">Hi there, I'm Othmane</span> 👋
 
 ## <span style="color: #FF6B6B; font-size: 32px;">💫 About Me</span>
 
