@@ -145,8 +145,8 @@ I create high-performance applications with a strong focus on user experience.
 
 <div style="background: linear-gradient(135deg, rgba(150, 206, 180, 0.1), rgba(255, 107, 107, 0.1)); padding: 20px; border-radius: 15px; margin: 20px 0;">
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=jwt" style="height: 40px; width: auto;" />
-  <img src="https://skillicons.dev/icons?i=oauth" style="height: 40px; width: auto;" />
+  <img src="https://othmanemakkour.vercel.app/jwt-icon.svg" style="height: 40px; width: auto;" />
+  <img src="https://othmanemakkour.vercel.app/oauth.svg" style="height: 40px; width: auto;" />
   <img src="https://skillicons.dev/icons?i=supabase" style="height: 40px; width: auto;" />
   <img src="https://img.shields.io/badge/BetterAuth-CustomAuth-blue?style=flat-square" style="height: 40px; width: auto;" />
 </p>
