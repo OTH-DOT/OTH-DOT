@@ -57,7 +57,7 @@ I create high-performance applications with a strong focus on user experience.
 <div style="background: linear-gradient(135deg, rgba(69, 183, 209, 0.1), rgba(150, 206, 180, 0.1)); padding: 20px; border-radius: 15px; margin: 20px 0;">
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap" style="height: 40px; width: auto;" />
-  <img src="https://avatars.githubusercontent.com/u/139895814?v=4" height="40" alt="shadcn" />
+  <img src="https://avatars.githubusercontent.com/u/139895814?v=4" style="height: 40px; width: auto;"  />
 </p>
 </div>
 
