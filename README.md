@@ -136,6 +136,7 @@ I create high-performance applications with a strong focus on user experience.
 <div style="background: linear-gradient(135deg, rgba(255, 107, 107, 0.1), rgba(78, 205, 196, 0.1)); padding: 20px; border-radius: 15px; margin: 20px 0;">
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,linux" style="height: 40px; width: auto;" />
+  <img src="https://othmanemakkour.vercel.app/cloudinary-icon.svg" style="height: 40px; width: auto;" />
 </p>
 </div>
 
