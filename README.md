@@ -14,7 +14,6 @@ I'm a <strong style="color: #4ECDC4;">Full Stack Developer</strong> specializing
 I create high-performance applications with a strong focus on user experience.
 </p>
 
----
 <!-- 
 ## <span style="color: #4ECDC4; font-size: 28px;">🌐 Let's Connect & Collaborate</span>
 
