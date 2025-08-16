@@ -185,6 +185,17 @@ I create high-performance applications with a strong focus on user experience.
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OTH-DOT/OTH-DOT/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/OTH-DOT/OTH-DOT/output/github-snake.svg" />
 </picture>
+  <picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="images/breakout-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="images/breakout-light.svg"
+  />
+  <img alt="Breakout Game" src="images/breakout-light.svg" />
+</picture>
 </div>
 
 ---
