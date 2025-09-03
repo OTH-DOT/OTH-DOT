@@ -43,23 +43,23 @@ I create high-performance applications with a strong focus on user experience.
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,nodejs,python" style="height:40px; margin:5px;" />
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,contextapi" style="height:40px; margin:5px;" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap" style="height:40px; margin:5px;" />
   <img src="https://avatars.githubusercontent.com/u/139895814?v=4" style="height:40px; margin:5px;" />
   <img src="https://skillicons.dev/icons?i=sass,figma" style="height:40px; margin:5px;" />
   <img src="https://skillicons.dev/icons?i=express,laravel" style="height:40px; margin:5px;" />
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" style="height:40px; margin:5px;" />
-  <img src="https://img.shields.io/badge/Drizzle-ORM-336699?style=flat-square&logo=drizzle&logoColor=white" style="height:40px; margin:5px;" />
   <img src="https://skillicons.dev/icons?i=npm,postman" style="height:40px; margin:5px;" />
-  <img src="https://cdn.svgporn.com/logos/axios.svg" style="height:40px; margin:5px;" />
   <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,linux" style="height:40px; margin:5px;" />
   <img src="https://othmanemakkour.vercel.app/cloudinary-icon.svg" style="height:40px; margin:5px;" />
   <img src="https://othmanemakkour.vercel.app/jwt-icon.svg" style="height:40px; margin:5px;" />
   <img src="https://othmanemakkour.vercel.app/oauth.svg" style="height:40px; margin:5px;" />
   <img src="https://skillicons.dev/icons?i=supabase" style="height:40px; margin:5px;" />
-  <img src="https://img.shields.io/badge/BetterAuth-CustomAuth-blue?style=flat-square" style="height:40px; margin:5px;" />
   <img src="https://cdn.svgporn.com/logos/socket.io.svg" style="height:40px; margin:5px;" />
   <img src="https://cdn.svgporn.com/logos/stripe.svg" style="height:40px; margin:5px;" />
   <img src="https://skillicons.dev/icons?i=wordpress,notion,canva" style="height:40px; margin:5px;" />
+  <img src="https://cdn.svgporn.com/logos/axios.svg" style="height:40px; margin:5px;" />
+  <img src="https://img.shields.io/badge/BetterAuth-CustomAuth-blue?style=flat-square" style="height:40px; margin:5px;" />
+  <img src="https://img.shields.io/badge/Drizzle-ORM-336699?style=flat-square&logo=drizzle&logoColor=white" style="height:40px; margin:5px;" />
 </p>
 
 
