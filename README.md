@@ -41,139 +41,27 @@ I create high-performance applications with a strong focus on user experience.
 ---
 -->
 
-## <span style="color: #96CEB4; font-size: 28px;">🧠 Core Languages & Technologies</span>
-
-<div style="background: linear-gradient(135deg, rgba(255, 107, 107, 0.1), rgba(78, 205, 196, 0.1)); padding: 20px; border-radius: 15px; margin: 20px 0;">
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,nodejs,python" style="height: 40px; width: auto;" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,nodejs,python" style="height:40px; margin:5px;" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,contextapi" style="height:40px; margin:5px;" />
+  <img src="https://avatars.githubusercontent.com/u/139895814?v=4" style="height:40px; margin:5px;" />
+  <img src="https://skillicons.dev/icons?i=sass,figma" style="height:40px; margin:5px;" />
+  <img src="https://skillicons.dev/icons?i=express,laravel" style="height:40px; margin:5px;" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" style="height:40px; margin:5px;" />
+  <img src="https://img.shields.io/badge/Drizzle-ORM-336699?style=flat-square&logo=drizzle&logoColor=white" style="height:40px; margin:5px;" />
+  <img src="https://skillicons.dev/icons?i=npm,postman" style="height:40px; margin:5px;" />
+  <img src="https://cdn.svgporn.com/logos/axios.svg" style="height:40px; margin:5px;" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,linux" style="height:40px; margin:5px;" />
+  <img src="https://othmanemakkour.vercel.app/cloudinary-icon.svg" style="height:40px; margin:5px;" />
+  <img src="https://othmanemakkour.vercel.app/jwt-icon.svg" style="height:40px; margin:5px;" />
+  <img src="https://othmanemakkour.vercel.app/oauth.svg" style="height:40px; margin:5px;" />
+  <img src="https://skillicons.dev/icons?i=supabase" style="height:40px; margin:5px;" />
+  <img src="https://img.shields.io/badge/BetterAuth-CustomAuth-blue?style=flat-square" style="height:40px; margin:5px;" />
+  <img src="https://cdn.svgporn.com/logos/socket.io.svg" style="height:40px; margin:5px;" />
+  <img src="https://cdn.svgporn.com/logos/stripe.svg" style="height:40px; margin:5px;" />
+  <img src="https://skillicons.dev/icons?i=wordpress,notion,canva" style="height:40px; margin:5px;" />
 </p>
-</div>
 
----
-
-## <span style="color: #FF6B6B; font-size: 28px;">⚙️ Frontend Powerhouse</span>
-
-<div style="background: linear-gradient(135deg, rgba(69, 183, 209, 0.1), rgba(150, 206, 180, 0.1)); padding: 20px; border-radius: 15px; margin: 20px 0;">
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap" style="height: 40px; width: auto;" />
-  <img src="https://avatars.githubusercontent.com/u/139895814?v=4" style="height: 40px; width: auto;"  />
-</p>
-</div>
-
----
-
-## <span style="color: #45B7D1; font-size: 28px;">🎨 Design & Styling Arsenal</span>
-
-<div style="background: linear-gradient(135deg, rgba(255, 107, 107, 0.1), rgba(69, 183, 209, 0.1)); padding: 20px; border-radius: 15px; margin: 20px 0;">
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=sass,figma" style="height: 40px; width: auto;" />
-  <img src="https://skillicons.dev/icons?i=css,tailwind" style="height: 40px; width: auto;" />
-</p>
-</div>
-
----
-
-## <span style="color: #96CEB4; font-size: 28px;">🧩 State Management Mastery</span>
-
-<div style="background: linear-gradient(135deg, rgba(78, 205, 196, 0.1), rgba(150, 206, 180, 0.1)); padding: 20px; border-radius: 15px; margin: 20px 0;">
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=redux" style="height: 40px; width: auto;" />
-  <img src="https://skillicons.dev/icons?i=contextapi" style="height: 40px; width: auto;" />
-</p>
-</div>
-
----
-
-## <span style="color: #FF6B6B; font-size: 28px;">🧱 Backend Development Excellence</span>
-
-### <span style="color: #4ECDC4; font-size: 20px;">🧾 Server-Side Languages</span>
-<div style="background: rgba(255, 107, 107, 0.1); padding: 15px; border-radius: 10px; margin: 15px 0;">
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=php,js,ts,nodejs" style="height: 40px; width: auto;" />
-</p>
-</div>
-
-### <span style="color: #45B7D1; font-size: 20px;">🔧 Backend Frameworks & Libraries</span>
-<div style="background: rgba(69, 183, 209, 0.1); padding: 15px; border-radius: 10px; margin: 15px 0;">
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=express,laravel" style="height: 40px; width: auto;" />
-</p>
-</div>
-
-### <span style="color: #96CEB4; font-size: 20px;">🗃️ Database Systems</span>
-<div style="background: rgba(150, 206, 180, 0.1); padding: 15px; border-radius: 10px; margin: 15px 0;">
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" style="height: 40px; width: auto;" />
-</p>
-</div>
-
----
-
-## <span style="color: #4ECDC4; font-size: 28px;">🧮 ORM & Advanced Query Tools</span>
-
-<div style="background: linear-gradient(135deg, rgba(78, 205, 196, 0.1), rgba(69, 183, 209, 0.1)); padding: 20px; border-radius: 15px; margin: 20px 0;">
-<p align="left">
-  <img src="https://img.shields.io/badge/Drizzle-ORM-336699?style=flat-square&logo=drizzle&logoColor=white" style="height: 40px; width: auto;" />
-</p>
-</div>
-
----
-
-## <span style="color: #45B7D1; font-size: 28px;">📦 Package Management & API Integration</span>
-
-<div style="background: linear-gradient(135deg, rgba(45, 183, 209, 0.1), rgba(150, 206, 180, 0.1)); padding: 20px; border-radius: 15px; margin: 20px 0;">
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=npm,postman" style="height: 40px; width: auto;" />
-  <img src="https://cdn.svgporn.com/logos/axios.svg" style="height: 40px; width: auto;" />
-</p>
-</div>
-
----
-
-## <span style="color: #FF6B6B; font-size: 28px;">🧰 DevOps & Development Tools</span>
-
-<div style="background: linear-gradient(135deg, rgba(255, 107, 107, 0.1), rgba(78, 205, 196, 0.1)); padding: 20px; border-radius: 15px; margin: 20px 0;">
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,linux" style="height: 40px; width: auto;" />
-  <img src="https://othmanemakkour.vercel.app/cloudinary-icon.svg" style="height: 40px; width: auto;" />
-</p>
-</div>
-
----
-
-## <span style="color: #96CEB4; font-size: 28px;">🔐 Authentication & Security Solutions</span>
-
-<div style="background: linear-gradient(135deg, rgba(150, 206, 180, 0.1), rgba(255, 107, 107, 0.1)); padding: 20px; border-radius: 15px; margin: 20px 0;">
-<p align="left">
-  <img src="https://othmanemakkour.vercel.app/jwt-icon.svg" style="height: 40px; width: auto;" />
-  <img src="https://othmanemakkour.vercel.app/oauth.svg" style="height: 40px; width: auto;" />
-  <img src="https://skillicons.dev/icons?i=supabase" style="height: 40px; width: auto;" />
-  <img src="https://img.shields.io/badge/BetterAuth-CustomAuth-blue?style=flat-square" style="height: 40px; width: auto;" />
-</p>
-</div>
-
----
-
-## <span style="color: #4ECDC4; font-size: 28px;">📊 Data Visualization & Real-time Communication</span>
-
-<div style="background: linear-gradient(135deg, rgba(78, 205, 196, 0.1), rgba(45, 183, 209, 0.1)); padding: 20px; border-radius: 15px; margin: 20px 0;">
-<p align="left">
-  <img src="https://cdn.svgporn.com/logos/socket.io.svg" style="height: 40px; width: auto;" />
-  <img src="https://cdn.svgporn.com/logos/stripe.svg" style="height: 40px; width: auto;" />
-</p>
-</div>
-
----
-
-## <span style="color: #45B7D1; font-size: 28px;">✍️ Content Management & Creative Tools</span>
-
-<div style="background: linear-gradient(135deg, rgba(69, 183, 209, 0.1), rgba(150, 206, 180, 0.1)); padding: 20px; border-radius: 15px; margin: 20px 0;">
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=wordpress" style="height: 40px; width: auto;" />
-  <img src="https://skillicons.dev/icons?i=figma,notion" style="height: 40px; width: auto;" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" style="height: 40px; width: auto;" />
-</p>
-</div>
 
 ---
 
