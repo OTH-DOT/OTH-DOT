@@ -56,7 +56,7 @@ I create high-performance applications with a strong focus on user experience.
   <img src="https://skillicons.dev/icons?i=supabase" style="height:40px; margin:5px;" />
   <img src="https://cdn.svgporn.com/logos/socket.io.svg" style="height:40px; margin:5px;" />
   <img src="https://cdn.svgporn.com/logos/stripe.svg" style="height:40px; margin:5px;" />
-  <img src="https://skillicons.dev/icons?i=wordpress,notion,canva" style="height:40px; margin:5px;" />
+  <img src="https://skillicons.dev/icons?i=wordpress,notion" style="height:40px; margin:5px;" />
   <img src="https://cdn.svgporn.com/logos/axios.svg" style="height:40px; margin:5px;" />
   <img src="https://img.shields.io/badge/BetterAuth-CustomAuth-blue?style=flat-square" style="height:40px; margin:5px;" />
   <img src="https://img.shields.io/badge/Drizzle-ORM-336699?style=flat-square&logo=drizzle&logoColor=white" style="height:40px; margin:5px;" />
