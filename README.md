@@ -49,6 +49,7 @@ I create high-performance applications with a strong focus on user experience.
   <img src="https://skillicons.dev/icons?i=express,laravel" style="height:40px; margin:5px;" />
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" style="height:40px; margin:5px;" />
   <img src="https://skillicons.dev/icons?i=npm,postman" style="height:40px; margin:5px;" />
+  <img src="https://avatars.githubusercontent.com/u/49538330?s=280&v=4" style="height:40px; margin:5px;" />
   <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,linux" style="height:40px; margin:5px;" />
   <img src="https://othmanemakkour.vercel.app/cloudinary-icon.svg" style="height:40px; margin:5px;" />
   <img src="https://othmanemakkour.vercel.app/jwt-icon.svg" style="height:40px; margin:5px;" />
