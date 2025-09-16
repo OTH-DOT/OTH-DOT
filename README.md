@@ -4,7 +4,7 @@
 
  # <span style="color: #00D4FF; font-weight: 900; font-size: 48px;">Hi there, I'm Othmane Makkour</span> 👋
 
-## <span style="color: #FF6B6B; font-size: 32px;">💫 About Me</span>
+## <span style="color: #FF6B6B; font-size: 32px;">Atbout Me</span>
 
 <p style="font-size: 18px; line-height: 1.8; color: #333; margin: 20px 0;">
 I'm a <strong style="color: #4ECDC4;">Full Stack Developer</strong> specializing in modern web development. My toolkit includes <strong style="color: #61DAFB;">React.js</strong>, <strong style="color: #000;">Next.js</strong>, <strong style="color: #38B2AC;">TailwindCSS</strong> for crafting beautiful interfaces, and <strong style="color: #43853D;">Node.js</strong>, <strong style="color: #FF2D20;">Laravel</strong>, <strong style="color: #00618A;">MySQL</strong>, <strong style="color: #4EA94B;">MongoDB</strong> for building robust and scalable backends.
