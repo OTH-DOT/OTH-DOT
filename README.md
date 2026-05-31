@@ -83,7 +83,7 @@ I create high-performance applications with a strong focus on user experience.
 <div style="background: linear-gradient(135deg, rgba(78, 205, 196, 0.1), rgba(69, 183, 209, 0.1)); padding: 20px; border-radius: 15px; margin: 20px 0;">
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=OTH-DOT&theme=github_dark_dimmed&hide_border=false" style="height: 200px; width: 100%; object-fit: contain;" /><br/>
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OTH-DOT&theme=github_dark_dimmed&hide_border=false&layout=compact" style="height: 200px; width: 100%; object-fit: contain;" /> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OTH-DOT&theme=github_dark_dimmed&hide_border=false&layout=compact" style="height: 200px; width: 100%; object-fit: contain;" />
 </p>
 </div>
 
