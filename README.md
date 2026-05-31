@@ -76,7 +76,6 @@ I create high-performance applications with a strong focus on user experience.
 </picture>
 </div>
 
----
 
 <!-- <span style="color: #4ECDC4; font-size: 28px;">📊 Development Analytics & Performance Metrics</span> -->
 
